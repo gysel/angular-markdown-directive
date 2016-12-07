@@ -1,6 +1,6 @@
 {
   "name": "angular-markdown-directive",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "simple AngularJS markdown directive with showdown",
   "main": "markdown.js",
   "scripts": {
